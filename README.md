@@ -1,6 +1,6 @@
 AirBnB Dashboard with Tableau
 
-The purpose of this project is to analyze and visualize the data collected from owners from Seatle, who are renting their flats on AirBnB, in order to help our client to get the most informed decision regarding what properties he should purchase. 
+The purpose of this project is to analyze and visualize data collected from Seattle property owners who rent their flats on Airbnb, in order to help our client make the most informed decision about which properties to purchase.
 Dataset
  https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
